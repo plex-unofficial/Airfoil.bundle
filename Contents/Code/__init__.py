@@ -9,8 +9,8 @@ import os
 APPLICATIONS_PREFIX = "/applications/Airfoil"
 NAME = "Airfoil"
 
-ART		   = 'Airfoil.png'
-ICON		  = 'Airfoil.png'
+ART		   = 'icon-default.png'
+ICON		  = 'icon-default.png'
 
 
 ####################################################################################################
