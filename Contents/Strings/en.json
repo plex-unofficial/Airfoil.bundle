@@ -1,0 +1,18 @@
+{
+    'Title': 'Airfoil',
+    'ApplicationsTitle': 'Airfoil',
+    'Connected': 'Connected',
+    'Running': 'Running',
+    'Not_Running': 'Not Running',
+    'Connect': 'Connect',
+    'Disconnect': 'Disconnect',
+    'Launch': 'Launch',
+    'Quit': 'Quit',
+    'Computer': 'Computer',
+	'Airfoil_Error': 'Airfoil Error !',
+	'Airfoil_Version_Error': 'Airfoil v3.5.0 is required.\nPlease update Airfoil.',
+	'Airfoil_Speakers_Error': 'Airfoil Speakers Error !',
+	'Airfoil_Speakers_Version_Error': 'Airfoil Speakers v3.5.0 is required.\nPlease update Airfoil Speakers.',
+	'No_Airfoil_found': 'Airfoil Speakers and Airfoil have not been found !',
+	'Install_Airfoil_Error': 'Please install Airfoil Speakers or/and Airfoil.',
+}
